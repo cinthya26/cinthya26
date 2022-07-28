@@ -12,13 +12,13 @@ public class Me{
   
   
   
-  public class Me()
+  public class Me{
   
     this.name = "Cinthya";
   
     this.lastname = "Brignoni";
   
-    this.age =27;
+    this.age = 27;
   
     this.skills = Arrays.asList(
   
